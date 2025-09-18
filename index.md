@@ -73,3 +73,10 @@ layout: default
 
 　　祝你在巴巴多斯的阳光下，网络畅通，分享无忧！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Barbados eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/barbados-data-plans)
